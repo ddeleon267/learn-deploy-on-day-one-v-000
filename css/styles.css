@@ -133,6 +133,14 @@ a:visited {
   height: 400px;
 }
 
+#dominique-deleon-cover {
+    background-image: url("http://imgur.com/hKUnDdg.jpg");
+  }
+
+#dominique-deleon-card {
+    background-image: url("http://imgur.com/xqsh8NM.jpg");
+}
+
 #irina-afanaseva-cover {
     background-image: url("http://i.imgur.com/0mb6WMf.jpg");
 }
